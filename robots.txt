@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin.html
+Disallow: /login.html
+Sitemap: https://mahmoud-elshoragithubio-production.up.railway.app/sitemap.xml
